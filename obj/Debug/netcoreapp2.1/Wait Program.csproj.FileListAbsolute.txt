@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Wait Program\bin\Debug\netcoreapp2.1\Wait Program.deps.json
+D:\Automation\Selenium\Round-2\Wait Program\bin\Debug\netcoreapp2.1\Wait Program.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Wait Program\bin\Debug\netcoreapp2.1\Wait Program.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Wait Program\bin\Debug\netcoreapp2.1\Wait Program.dll
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Wait Program\bin\Debug\netcoreapp2.1\Wait Program.pdb
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.dll
+D:\Automation\Selenium\Round-2\Wait Program\obj\Debug\netcoreapp2.1\Wait Program.pdb

@@ -3703,11 +3703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Automation\\Selenium\\Round-2\\Wait Program\\Wait Program.csproj",
+      "projectUniqueName": "D:\\Automation\\Selenium\\Round-2\\Implicit Wait\\Wait Program.csproj",
       "projectName": "Wait Program",
-      "projectPath": "D:\\Automation\\Selenium\\Round-2\\Wait Program\\Wait Program.csproj",
+      "projectPath": "D:\\Automation\\Selenium\\Round-2\\Implicit Wait\\Wait Program.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Automation\\Selenium\\Round-2\\Wait Program\\obj\\",
+      "outputPath": "D:\\Automation\\Selenium\\Round-2\\Implicit Wait\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
